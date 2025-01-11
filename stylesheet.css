@@ -1,3 +1,10 @@
 p {
   color: blue;
 }
+
+.dm-sans-primary {
+  font-family: "DM Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
